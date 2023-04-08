@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+.p-card{
+    width: 25rem;
+}
+
+.p-4 {
+    padding: 4.5rem !important;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -0.5rem;
+    margin-left: 3.5rem;
+    margin-top: -0.5rem;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
